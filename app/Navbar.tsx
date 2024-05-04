@@ -21,9 +21,9 @@ export default function Navbar() {
               href={link.href} 
               className={classnames(
                 {
-                  'text-zinc-100': currentPath === link.href,
+                  'text-zinc-800': currentPath === link.href,
                   'text-zinc-500': currentPath !== link.href,
-                  'hover:text-zinc-200 transition-colors': true,
+                  'hover:text-zinc-800 transition-colors': true,
                 }
               )}>
               {link.label}</Link>)}
