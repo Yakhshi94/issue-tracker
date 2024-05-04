@@ -8,7 +8,7 @@ function issuePage() {
     <div className='max-w-xl space-y-3'>
         <TextField.Root variant="surface" placeholder="Title" />
         <TextArea placeholder="Description" />
-        <Button>Submit New Issue</Button>
+        <Button size="4" variant='soft' color='indigo'>Submit New Issue</Button>
     </div>
   )
 }
