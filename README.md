@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+used libraries:
+Prisma
+React Hook
+zod
+tailwind css
+radix-ui
+axios
+reacthook resolver
+react simplemde editor
+
+
 ## Getting Started
 
 First, run the development server:
